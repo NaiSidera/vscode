@@ -191,15 +191,5 @@
   "vsicons.presets.jsOfficial": true,
   "files.associations": {
     ".huskyrc": "yaml"
-  },
-  "tsimporter.filesToExclude": [
-    "**/*/models/**/*",
-    "**/*/crowdfunding/src/**/*",
-    "**/*/chronicles/src/**/*",
-    "**/*/logistics/src/**/*",
-    "**/*/common/src/**/*"
-  ],
-  "errorLens.excludeBySource": [
-    "[\"eslint(@typescript-eslint/ban-ts-comments)\"], [\"eslint(@typescript-eslint/no-var-required)\"]"
-  ]
+  }
 }
